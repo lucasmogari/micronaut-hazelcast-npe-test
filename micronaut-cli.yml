@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: hazelcast.test
+---
+testFramework: junit
+sourceLanguage: java
